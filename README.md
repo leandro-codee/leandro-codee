@@ -4,5 +4,5 @@
 </p>
 
 <div align="center">
-   [leandrocode's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro-codee&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   <img src="https://github-readme-stats.vercel.app/api?username=leandro-codee&show_icons=true&locale=es&theme=dark" alt="leandrocode's GitHub stats" />
 </div>
