@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <h3 align="center">Hola devs 👋! Soy Leandro Code 👨🏽‍💻</h3>
-    <p>Con solo 22 años he logrado ser Senior Software Engineer y tener el privilegio de trabajar en grandes empresas como Mercado Libre y, actualmente, en Walmart. Creo contenido para enseñar programación y ayudar a otros a crecer en sus carreras tecnológicas 🚀</p>
+    <p>Tengo 22 años y soy Senior Software Engineer con experiencia en empresas como Mercado Libre y Walmart. Me encanta enseñar y ayudar, así que siéntete libre de comentar tus dudas. ¡Aprendamos juntos desarrollando proyectos de todo tipo! 😎🤙</p>
 </p>
 
 <div align="center">
